@@ -1,4 +1,5 @@
 Dependencies:
+Written in Python 3.7, includes Pandas and Selenium Libraries
 
 To run this program, you must have the Chrome web browser installed on your computer, as well as a chrome driver.  
 Chrome is available here: https://www.google.com/chrome/
